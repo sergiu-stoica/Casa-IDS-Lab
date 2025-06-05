@@ -2,8 +2,7 @@
 
 **Casa IDS Lab** ist eine modular aufgebaute Testumgebung für praxisnahe Intrusion Detection, Loganalyse und Security Awareness.  
 Das Ziel: **Detection. Dokumentation. Repeatability.**  
-Gedacht für alle, die Sicherheit nicht nur denken – sondern nachweisen wollen.
-
+Für alle, die IT Sicherheit nicht nur denken - sondern umsetzen und dokumentieren.
 ---
 
 ## 🔍 Zielsetzung
@@ -53,8 +52,11 @@ Casa-IDS-Lab/
 
 
 🚧 Status
-🟡 In Überarbeitung (Stand: Juni 2025)
-Verbesserte Regelbasis, Visualisierung & Trainingsmaterialien folgen sukzessive.
+🟡 Stand Juni 2025
+"Readme überarbeitet"
+"Regelverzeichnis aktualisiert"
+"Visualisierung in Vorbereitung"
+"Weiter Usecases folgen im docs/ -Ordner"
 
 🤝 Mitmachen
 Pull Requests, Feedback oder Kollaboration im Detection-Bereich sind willkommen.
