@@ -29,7 +29,7 @@ Für alle, die IT Sicherheit nicht nur denken - sondern umsetzen und dokumentier
 
 | Komponente         | Funktion                                |
 |--------------------|------------------------------------------|
-| 🐍 **Snort**       | Paketbasierte Angriffserkennung          |
+| 🐷 **Snort**       | Paketbasierte Angriffserkennung          |
 | 📊 **Splunk**      | Logsammlung, Analyse & Visualisierung    |
 | 🐧 **Linux Host**  | Syslog, pcap-Handling, Testruns           |
 | 📦 **Testdaten**   | Simulierter Netzwerkverkehr & Events     |
