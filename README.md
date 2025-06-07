@@ -1,3 +1,5 @@
+🔐 Praxisnahe Testumgebung für Intrusion Detection & Awareness - dokumentiert, messbar, wiederholbar.
+
 # 🏠 Casa IDS Lab – Realistische Detection-Architektur für Heim- und KMU-Netzwerke
 
 **Casa IDS Lab** ist eine modular aufgebaute Testumgebung für praxisnahe Intrusion Detection, Loganalyse und Security Awareness.  
@@ -14,6 +16,14 @@ Für alle, die IT Sicherheit nicht nur denken - sondern umsetzen und dokumentier
 - Vorbereitung auf Blue-Team- & SOC-Rollen
 
 ---
+
+## ✨ Features 
+
+- IDS-Integration mit Snort (regelbasiert, anpassbar)
+- Beispielhafte Netzwerkverkehrsdaten im .pcap-Format
+- Splunk Dashboard zur Visualisierung & Analyse
+- Awareness-Dokumentation & Usecase-Beschreibung
+- Modulares System - erweiterbar für verschiedene Szenarien
 
 ## ⚙️ Komponenten
 
