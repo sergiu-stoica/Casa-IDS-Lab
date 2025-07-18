@@ -110,6 +110,7 @@ Ziel ist es, realistische Heim- und KMU-Szenarien nicht nur **technisch**, sonde
 
 ## 📁 Verzeichnisstruktur
 
+```text
 Casa-IDS-Lab/
 ├── rules/                → Eigene Snort-Regeln
 ├── test-pcaps/           → Beispielhafte .pcap-Dateien
